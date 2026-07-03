@@ -43,3 +43,4 @@ Persönliches Lern- und Portfolio-Projekt von Jens im Rahmen des Data-Science-Cu
 - Commits klein und beschreibend halten.
 - Neue Abhängigkeiten immer in `requirements.txt` eintragen.
 - Rohdaten nicht verändern — Aufbereitung in Skripten/Notebooks, nicht manuell in den Rohdateien.
+- **Code komplett auf Englisch:** Variablennamen, Funktionsnamen, Kommentare, Docstrings, print-Ausgaben, Commit-Messages, README/Dateiinhalte — alles Englisch. Gilt für alle Projekte von Jens, nicht nur dieses Repo.
